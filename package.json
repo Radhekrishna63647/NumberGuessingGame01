@@ -1,0 +1,15 @@
+{
+  "name": "number-guessing-game",
+  "version": "1.0.0",
+  "description": "A simple number guessing game in React Native",
+  "main": "App.js",
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-native": "^0.65.1"
+  }
+}
